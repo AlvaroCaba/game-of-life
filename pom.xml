@@ -127,6 +127,8 @@
 
         <pluginManagement>
             <plugins>
+
+
             </plugins>
         </pluginManagement>
         <extensions>
@@ -137,12 +139,10 @@
             </extension>
         </extensions>
     </build>
-
     <dependencyManagement>
         <dependencies>
         </dependencies>
     </dependencyManagement>
-
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
